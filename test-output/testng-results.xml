@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-01-17T13:52:05 EST" name="Default suite" finished-at="2021-01-17T13:52:13 EST" duration-ms="7894">
+    <groups>
+    </groups>
+    <test started-at="2021-01-17T13:52:05 EST" name="Default test" finished-at="2021-01-17T13:52:13 EST" duration-ms="7894">
+      <class name="com.herokuapp.RegressionTests">
+        <test-method signature="startup()[pri:0, instance:com.herokuapp.RegressionTests@568ff82]" started-at="2021-01-17T13:52:05 EST" name="startup" finished-at="2021-01-17T13:52:13 EST" duration-ms="7846" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startup -->
+      </class> <!-- com.herokuapp.RegressionTests -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
